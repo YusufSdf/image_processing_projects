@@ -2,9 +2,7 @@
 This project provides a real-time computer vision solution to prevent distractions by monitoring smartphone usage during study or work.
 
 🌐 Language / Dil
-English
-
-Türkçe
+English/Türkçe
 
 <a name="english"></a>
 
@@ -32,6 +30,7 @@ Run the script:
 
 Bash
 python no_phone.py
+
 <a name="türkçe"></a>
 
 🇹🇷 Türkçe
